@@ -1,0 +1,6 @@
+[requires]
+opencv/3.4.3@conan/stable
+tesseract/3.05.01@bincrafters/stable
+
+[generators]
+cmake
